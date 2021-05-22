@@ -1,0 +1,32 @@
+{
+  "blogs": [
+    {
+      "title": "Bolo de Cenoura com cobertura de chocolate",
+      "body": "Bolo de cenoura com cobertura de chocolate é um clássico que nunca sai de moda, agradando das gerações mais antigas às mais atuais. Veja esta simples receita de liquidificador que garante um sabor excelente e arrase com o quitute que pode ser servido como sobremesa ou lanche.\n\nIngredientes - Massa\n3 cenouras picadas\n3 ovos\n1 xícara de óleo de soja\n3 xícaras de farinha de trigo\n2 xícaras de açúcar\n1 colher de fermento químico em pó\nIngredientes - Cobertura\n1 colher de margarina\nMeia xícara de leite\n5 colheres de achocolatado em pó\n4 colheres de açúcar\nModo de Preparo - Massa\n1. Coloque os ingredientes no liquidificador e acrescente aos poucos a farinha.\n2. Leve para assar em uma forma untada.\n3. Depois de assado cubra com a cobertura.\nModo de Preparo - Cobertura\n1. Misture todos os ingredientes, leve ao fogo e deixe ferver até engrossar.",
+      "picture": "C:\\fakepath\\download.jpg",
+      "author": "mario",
+      "id": 24
+    },
+    {
+      "title": "Bolo formigueiro",
+      "body": "Ingredientes\n\n1 xícara (de chá) de manteiga\n\n1 xícara (de chá) de açúcar\n\n4 ovos (se for muito grande, use 3)\n\n200 ml de leite\n\n2 e 1/2 xícara (de chá) de farinha de trigo\n\n1 pacote de coco ralado (50 g)\n\n1 pacote de granulado de chocolate (50 g)\n\n1 colher (de sopa) de fermento de bolo\n\nModo de Preparo\n\nColoque a manteiga e o açúcar na tigela da batedeira.\n\nBata bem até ficar um creme esbranquiçado.\n\nVá colocando os ovos um a um, continuando a bater.\n\nJunte o leite e a farinha de trigo alternadamente.\n\nBata na velocidade baixa da batedeira só até formar uma massa.\n\nRetire da batedeira e acrescente o coco e o granulado.\n\nMisture tudo muito bem.\n\nAcrescente o fermento e mexa delicadamente.\n\nColoque a massa em uma forma untada com manteiga e polvilhada com farinha de trigo.\n\nLeve ao forno preaquecido (200 graus)\n\nDepois de 35 minutos, espete um palito para ver se ele sai limpo, se sair já está bom.\n\nDeixe ficar morno, quase frio para desenformar.",
+      "picture": "",
+      "author": "Rodrigo",
+      "id": 25
+    },
+    {
+      "title": "Arroz branco normal",
+      "body": "(INGREDIENTES) \n2 dentes de alho picados,\n1 fio de sopa de óleo,\n1 colher de chá de sal,\n2 xícaras de arroz,\n3 xícaras de água quente,\n(MODO DE PREPARO)\nLave bem o arroz,\nColoque a água para ferver,\nSoque o alho picado,\nEm seguida, numa panela, coloque o alho picado e socado, espere. Acrescente então o óleo e deixe dourar,\nQuando o alho começar a suar, adicione o arroz.\nRefogue o arroz, e em seguida, coloque a água quente e o sal.\nBaixe o fogo, deixe a panela semi-tampada e deixe cozinhar até a água secar.\nPronto.",
+      "picture": "",
+      "author": "Rodrigo",
+      "id": 26
+    },
+    {
+      "title": "Como preparar pipoca",
+      "body": "(INGREDIENTES)\n½ xícara (chá) de milho para pipoca,\n½ colher (sopa) de óleo,\nsal a gosto,\n(MODO DE PREPARO)\n1. Coloque o óleo numa caçarola média, adicione 3 grãos de milho e leve ao fogo médio. O óleo vai estar na temperatura certa para fazer a pipoca assim que um dos grãos estourar. Acrescente o restante do milho, tampe a panela e diminua o fogo.\n\n2. Mantenha a panela tampada em fogo baixo e deixe cozinhar por cerca de 5 minutos até que o tempo entre um estouro de pipoca e outro seja maior que 2 segundos. A cada 2 minutos, segure a panela pelas alças, levante e mexa delicadamente fazendo movimentos circulares - assim os grãos de milho estouram por igual.\n\n3. Assim que estiver estourado, transfira a pipoca para uma assadeira grande e deixe esfriar completamente antes de armazenar - quanto mais separados ficarem, mais rápido os grãos esfriam.\n\n4. Para permanecer crocante por até 3 dias, armazene a pipoca num pote de vidro com fechamento hermético ou saco plástico bem fechado. Atenção: tempere com sal a gosto apenas na hora de consumir - este é outro truque para manter as pipocas crocantes por mais tempo.",
+      "picture": "",
+      "author": "Acauan",
+      "id": 27
+    }
+  ]
+}
